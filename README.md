@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+<div class="header" align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="250px">
+</div>
 
 - 🌱 I’m currently learning **html, css, JS and java**
 
 - 👯 I’m looking to collaborate on **a front project**
 
-- 📫 How to reach me:**marcusduarte29@gmail.com**
+- 📫 How to reach me: **marcusduarte29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
